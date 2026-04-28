@@ -1,6 +1,6 @@
 # 🎓 TÀI LIỆU ĐIỆN TỬ - VIỄN THÔNG (VI MẠCH) - HCMUTE
 
-Chào mừng bạn đến với kho lưu trữ tài liệu học tập dành cho sinh viên ngành **Công nghệ Kỹ thuật Điện tử - Viễn thông (chuyên ngành Vi mạch - IC Design)** tại Trường Đại học Sư phạm Kỹ thuật TP.HCM (HCMUTE).
+Chào mừng bạn đến với kho lưu trữ tài liệu học tập dành cho sinh viên ngành **Công nghệ Kỹ thuật Điện tử - Viễn thông (chuyên ngành Vi mạch - IC Design)** tại Trường Đại học Công nghệ Kỹ thuật TP.HCM (HCMUTE).
 
 Repository này tổng hợp giáo trình, bài giảng, bài tập và đề thi để hỗ trợ các bạn sinh viên UTE ôn tập hiệu quả.
 
@@ -12,7 +12,7 @@ Tài liệu được chia thành các thư mục môn học cụ thể ở phía
 * **Khối Cơ sở ngành:** Mạch điện, Mạch điện tử, Kỹ thuật số, Vi xử lý (PIC16F887), Tín hiệu & Hệ thống...
 * **Khối Chuyên ngành & Kỹ năng:** Lập trình C, Trí tuệ nhân tạo, Tiếng Anh/TOEIC...
 
-*(Bạn chỉ cần click trực tiếp vào các thư mục mã nguồn để tìm tài liệu mình cần).*
+
 
 ## 📥 Hướng dẫn tải về
 
@@ -22,6 +22,6 @@ Tài liệu được chia thành các thư mục môn học cụ thể ở phía
 ## 🤝 Đóng góp
 
 Nếu bạn có tài liệu hay, đề thi mới hoặc thấy có sai sót, hãy chung tay đóng góp bằng cách **Fork** repo này, thêm tài liệu và tạo **Pull Request** nhé. 
-
+Hoặc liên hệ qua zalo: 0944833434
 ---
 *Lưu ý: Các tài liệu trong kho lưu trữ này được tổng hợp từ nhiều nguồn, phục vụ hoàn toàn cho mục đích học tập và nghiên cứu phi thương mại.*
