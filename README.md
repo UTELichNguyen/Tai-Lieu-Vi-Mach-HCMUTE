@@ -1,27 +1,30 @@
-# 🎓 TÀI LIỆU ĐIỆN TỬ - VIỄN THÔNG - HCMUTE
+# 🎓 Kho Tài Liệu CNKT Điện Tử - Viễn Thông (Chuyên Ngành Vi Mạch) - HCMUTE
 
-Chào mừng bạn đến với kho lưu trữ tài liệu học tập dành cho sinh viên ngành **Công nghệ Kỹ thuật Điện tử - Viễn thông (chuyên ngành Vi mạch - IC Design)** tại Trường Đại học Công nghệ Kỹ thuật TP.HCM (HCMUTE).
+Chào mừng bạn đến với kho lưu trữ tài liệu dành cho sinh viên ngành **Công nghệ Kỹ thuật Điện tử - Viễn thông, chuyên ngành Vi mạch (IC Design)**. 
 
-Repository này tổng hợp giáo trình, bài giảng, bài tập và đề thi để hỗ trợ các bạn sinh viên UTE & sinh viên ngành ĐTVT ôn tập hiệu quả.
+Hiện tại, mình đang là sinh viên năm 2 nên repository này lưu trữ tài liệu của những môn học mình đã hoàn thành. Trong tương lai (năm 3 và năm 4), khi học các môn chuyên ngành mới, mình sẽ tiếp tục cập nhật tài liệu liên tục lên đây.
 
-## 📂 Danh mục tài liệu
+## 📂 Nội dung tài liệu
+Kho lưu trữ này cung cấp các tài nguyên học tập, bao gồm:
+* **Tài liệu cốt lõi:** Giáo trình, slide bài giảng, đề thi các năm, và bài tập ôn tập.
+* **Công cụ hỗ trợ:** File tải các phần mềm phục vụ quá trình học tập và thực hành.
+* **Tài liệu bổ trợ:** Các môn kỹ năng và mở rộng như Trí tuệ nhân tạo (AI), Tiếng Anh,... (Sẽ được cập nhật thêm trong thời gian tới).
 
-Tài liệu được chia thành các thư mục môn học cụ thể ở phía trên. Một số nhóm chính bao gồm:
+## 📚 Nguồn tài liệu
+Các tài liệu trong kho lưu trữ này được chọn lọc và tổng hợp từ nhiều nguồn uy tín:
+* Bài giảng, tài liệu từ các giảng viên trường Đại học Công nghệ Kỹ thuật TP.HCM (HCMUTE).
+* Tài liệu tham khảo từ trường Đại học Bách Khoa TP.HCM.
+* Tài liệu, ghi chép do chính mình biên soạn trong quá trình học.
+* Các nguồn tài liệu hữu ích khác được sưu tầm trên internet.
 
-* **Khối Đại cương & Cơ bản:** Toán 1-2-3, Vật lý 1-2, Triết học, Pháp luật đại cương...
-* **Khối Cơ sở ngành:** Mạch điện, Mạch điện tử, Kỹ thuật số, Vi xử lý (PIC16F887), Tín hiệu & Hệ thống...
-* **Khối Chuyên ngành & Kỹ năng:** Lập trình C, Trí tuệ nhân tạo, Tiếng Anh/TOEIC...
+## 📥 Hướng dẫn tải tài liệu
+* **Để tải từng file:** Truy cập vào thư mục chứa file -> Nhấn vào file bạn muốn tải -> Click vào biểu tượng `Download raw file` (hình mũi tên tải xuống ở góc phải bản xem trước).
+* **Để tải toàn bộ kho tài liệu:** Bấm vào nút `<> Code` (màu xanh lá cây) ở đầu trang chủ của repository -> Chọn `Download ZIP` để tải tất cả về máy, sau đó giải nén.
 
-*Lưu ý: Repository này sẽ còn được cập nhật tài liệu đều đặn trong thời gian tới
+## 🤝 Đóng góp và Liên hệ
+Mình rất hoan nghênh sự đóng góp từ mọi người để kho tài liệu ngày càng hoàn thiện và giúp ích được cho nhiều sinh viên hơn. Nếu bạn có tài liệu hay muốn chia sẻ, hoặc có bất kỳ góp ý nào, vui lòng liên hệ với mình qua:
 
-## 📥 Hướng dẫn tải về
+* **Zalo:** 0944833434
 
-* **Tải từng file:** Nhấn vào file bạn muốn -> Bấm nút `Download raw file` (biểu tượng tải xuống ở góc phải bản xem trước).
-* **Tải toàn bộ:** Nhấn nút `<> Code` màu xanh lá ở đầu trang -> Chọn `Download ZIP` để tải tất cả về máy.
-
-## 🤝 Đóng góp
-
-Nếu bạn có tài liệu hay, đề thi mới hoặc thấy có sai sót, hãy chung tay đóng góp bằng cách **Fork** repo này, thêm tài liệu và tạo **Pull Request** nhé. 
-Hoặc liên hệ qua zalo: 0944833434
 ---
-*Lưu ý: Các tài liệu trong kho lưu trữ này được tổng hợp từ nhiều nguồn, phục vụ hoàn toàn cho mục đích học tập và nghiên cứu phi thương mại.*
+*Chúc các bạn học tập thật tốt và vượt qua các kỳ thi với điểm số cao nhất!*
