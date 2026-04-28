@@ -1,4 +1,4 @@
-# 🎓 TÀI LIỆU ĐIỆN TỬ - VIỄN THÔNG (VI MẠCH) - HCMUTE
+# 🎓 TÀI LIỆU ĐIỆN TỬ - VIỄN THÔNG - HCMUTE
 
 Chào mừng bạn đến với kho lưu trữ tài liệu học tập dành cho sinh viên ngành **Công nghệ Kỹ thuật Điện tử - Viễn thông (chuyên ngành Vi mạch - IC Design)** tại Trường Đại học Công nghệ Kỹ thuật TP.HCM (HCMUTE).
 
